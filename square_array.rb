@@ -1,3 +1,3 @@
 def square_array(array)
-array.each { |e| = e + 2 }
+array.each { |e| puts + 2 }
 end
