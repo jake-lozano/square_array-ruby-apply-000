@@ -1,3 +1,3 @@
 def square_array(array)
-array.each { |e|  2 }
+array.map { |e| e**2 }
 end
